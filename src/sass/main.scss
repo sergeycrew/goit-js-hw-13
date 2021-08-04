@@ -1,0 +1,9 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+@import './_general';
+@import './_cards';
+@import './node_modules/simplelightbox/src/simple-lightbox';
